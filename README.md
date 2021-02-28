@@ -68,6 +68,5 @@ git branch [branchname(format:UserName/FeatureName)]
 git checkout [branchname]
 ```
 
-::: warning
+
 *Thanks!!  [Visit Us](https://www.komen.co.in/)*
-:::
