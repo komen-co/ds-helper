@@ -2,7 +2,7 @@
 __Let's Learn Some Basic GitHub Steps :)__
 
 - __[KOMEN.CO](https://www.komen.co.in/)__ -The Beginning of your Journey
-![Minion](http://www.estudiosdemercado.org/komenco.jpg)
+![Minion](https://www.komen.co.in/)
 
 __Following are basic GitHub Steps!__
 
