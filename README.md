@@ -67,8 +67,9 @@ __Following are the steps to get started with git!__
     ```
 7. push the changes to the remote repository
     ``` 
-    git branch [branchname(format:UserName/FeatureName)]
-    git checkout [branchname]
+    git push origin [branchname]
+    // switch back to main
+    git checkout main
     ```
 
 
