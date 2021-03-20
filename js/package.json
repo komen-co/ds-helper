@@ -1,0 +1,28 @@
+{
+  "name": "ds-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komen-co/ds-helper.git"
+  },
+  "keywords": [
+    "ds",
+    "data-structures",
+    "linked-list",
+    "tree",
+    "bst"
+  ],
+  "author": "Komenco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/komen-co/ds-helper/issues"
+  },
+  "homepage": "https://github.com/komen-co/ds-helper#readme",
+  "dependencies": {
+  }
+}
